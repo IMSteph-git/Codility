@@ -24,7 +24,7 @@ def solution(X, A):
             return(index_array[0])
 
 
-
+# Checking the results
 
 xx = 1
 AA = [1,3,1,4,2,3,5,4]
